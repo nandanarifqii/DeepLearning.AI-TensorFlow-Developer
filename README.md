@@ -26,7 +26,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
     <br>
     <details>
       <summary>Show Certificate</summary>
-           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/f3014cac-987a-482d-a782-8ebe3854d290" alt="TensorFlow C2 Certificate">
+           <img src="https://github.com/user-attachments/assets/36773cf7-7546-427b-aeb9-2d7db38208c4" alt="TensorFlow C2 Certificate">
     </details>
   - ---
 
@@ -38,7 +38,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
     <br>
     <details>
       <summary>Show Certificate</summary>
-          <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/55f1a31b-c7c6-4743-8f53-01a827b4cb16" alt="TensorFlow C3 Certificate">
+          <img src="https://github.com/user-attachments/assets/de56fd9c-14d0-4d2d-9980-207f6452a8d5" alt="TensorFlow C3 Certificate">
     </details>
   - ---
 
@@ -50,7 +50,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
     <br>
     <details>
       <summary>Show Certificate</summary>
-            <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/91cd94de-086a-46b9-8d37-067698b8b95a" alt="TensorFlow C4 Certificate">
+            <img src="https://github.com/user-attachments/assets/9f0062dd-5e9b-4aa1-b09c-906ac78f5691" alt="TensorFlow C4 Certificate">
     </details>
   - ---
 
