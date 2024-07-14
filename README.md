@@ -11,7 +11,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
     * Week 2 : Introduction to Computer Vision
     * Week 3 : Enhancing Vision with Convolutional Neural Networks
     * Week 4 : Using Real-world Images
-
+    <br>
     <details>
       <summary>Show Certificate</summary>
            <img src="https://github.com/user-attachments/assets/41304609-d2f7-4c67-9d4e-5fcd8460a3f2" alt="TensorFlow C1 Certificate">
