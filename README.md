@@ -14,8 +14,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
     <br>
     <details>
       <summary>Show Certificate</summary>
-           <img src="![image](https://github.com/user-attachments/assets/2be0b254-8a4b-4c30-b80b-249a86868c12)
-" alt="TensorFlow C1 Certificate">
+           <img src="https://github.com/user-attachments/assets/2be0b254-8a4b-4c30-b80b-249a86868c12" alt="TensorFlow C1 Certificate">
     </details>
   - ---
 
