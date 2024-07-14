@@ -7,15 +7,14 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
 
 ## Contents
   - <b> [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/nandanarifqii/DeepLearning.AI-TensorFlow-Developer/tree/main/1_Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) </b>
-    * <b>[Week 1](</b>: A New Programming Paradigm
-      
-    * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/2.%20Introduction%20to%20Computer%20Vision)</b>: Introduction to Computer Vision
-    * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/3.%20Enhancing%20Vision%20with%20Convolutional%20Neural%20Networks)</b>: Enhancing Vision with Convolutional Neural Networks
-    * <b>[Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/4.%20Using%20Real-world%20Images)</b>: Using Real-world Images
+    * Week 1 : A New Programming Paradigm
+    * Week 2 : Introduction to Computer Vision
+    * Week 3 : Enhancing Vision with Convolutional Neural Networks
+    * Week 4 : Using Real-world Images
       
     <details>
       <summary>Show Certificate</summary>
-           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/33923219-2e7b-4dad-9eac-408959834ef7" alt="TensorFlow C1 Certificate">
+           <img src="https://github.com/user-attachments/assets/41304609-d2f7-4c67-9d4e-5fcd8460a3f2" alt="TensorFlow C1 Certificate">
     </details>
   - ---
 
