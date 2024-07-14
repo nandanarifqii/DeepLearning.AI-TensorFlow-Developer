@@ -1,7 +1,7 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professional Certificate course.
 
-![DeepLearning AI TensorFlow Developer]![image](https://github.com/user-attachments/assets/540b3042-608b-4f5d-afd2-5ccfbc4a3be8)
+[DeepLearning AI TensorFlow Developer](https://github.com/user-attachments/assets/540b3042-608b-4f5d-afd2-5ccfbc4a3be8)
 
 
 
