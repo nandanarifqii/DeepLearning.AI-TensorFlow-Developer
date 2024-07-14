@@ -6,7 +6,7 @@ My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professi
 
 
 ## Contents
-  - ### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) (https://github.com/nandanarifqii/DeepLearning.AI-TensorFlow-Developer/tree/main/1_Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
+  - <b> [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/nandanarifqii/DeepLearning.AI-TensorFlow-Developer/tree/main/1_Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) </b>
     * <b>[Week 1](</b>: A New Programming Paradigm
       
     * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/2.%20Introduction%20to%20Computer%20Vision)</b>: Introduction to Computer Vision
